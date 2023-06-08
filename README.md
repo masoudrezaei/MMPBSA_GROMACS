@@ -20,4 +20,5 @@ AmberTools20 or higher
 ## Running the notebook  
 To run the notebook, simply open it in Jupyter and execute each cell in order. The notebook contains detailed explanations and instructions for each step of the MMPBSA calculation process.  
 
-Note: It is recommended to run this notebook on a machine with sufficient computational resources as MMPBSA calculations can be computationally intensive.
+Note: It is recommended to run this notebook on a machine with sufficient computational resources as MMPBSA calculations can be computationally intensive.  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/masoudrezaei/MMPBSA_GROMACS/]
